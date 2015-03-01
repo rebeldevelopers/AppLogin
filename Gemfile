@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.1.2'
+ruby '2.2.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.5'
@@ -43,4 +43,4 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+gem 'swiftype', '~> 1.0.0'
